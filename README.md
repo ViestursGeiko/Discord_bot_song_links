@@ -19,3 +19,7 @@ Pēc tam izmantojot XPATH atrašanas metodi atrodam primo video, kas atbilst lie
 Skripts galā iegūst video linku, kā arī video nosaukumu un atgriež vērtības, kā sarakstu "discord.py" failam. Un atgirež lietotājam čatā atbildi: "Requested song: "dziesmas links"". Šo linku un iegūto nosaukumu mēs pēc tam izmantojot "openpyxl"
 biblotēku, ievadam "song_list.xlsx" failā. Sākumā mēs atveram .xlsx failu un izmantojam aktīvo lapu kurā tiks ievadīti dati. Pirmajā kollonā tiek ievadīts iegūtais dziesmas nosaukums un otrajā kollonā tiek ievadīts iegūtais dziesmas links,
 un fails tiek saglabāts un aiztaisīts.
+
+
+links uz skriptu darbībā:
+https://youtu.be/R8L6ItmqFL8

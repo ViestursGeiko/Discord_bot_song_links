@@ -20,6 +20,9 @@ Skripts galā iegūst video linku, kā arī video nosaukumu un atgriež vērtīb
 biblotēku, ievadam "song_list.xlsx" failā. Sākumā mēs atveram .xlsx failu un izmantojam aktīvo lapu kurā tiks ievadīti dati. Pirmajā kollonā tiek ievadīts iegūtais dziesmas nosaukums un otrajā kollonā tiek ievadīts iegūtais dziesmas links,
 un fails tiek saglabāts un aiztaisīts.
 
+Drošības nolūkiem "discord.py" failā, TOKEN_INPUT vietā ir jābūt unikālajam TOKENAM ko iegūst no saites kur bots tiek uzstādīts. Tapēc kodā, github šeit tas ir aizstāts un kods nedarbojas.
+
+TOKEN = "TOKEN_input"
 
 links uz skriptu darbībā:
 https://youtu.be/R8L6ItmqFL8

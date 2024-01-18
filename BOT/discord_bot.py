@@ -7,7 +7,7 @@ intents = discord.Intents.default()
 intents.messages = True
 intents.message_content = True
 
-TOKEN = "MTE5NzEyMjg3NDA5NjUwNDkyMg.G_JHdB.v9j_LNX1mTmVs0lMvDpCHqrHEqgtXEZJe2Q180"
+TOKEN = "TOKEN_input"
 #dod prefix komandam
 bot = commands.Bot(command_prefix='!', intents=intents)
 
